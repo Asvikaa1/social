@@ -1,0 +1,33 @@
+div{
+    margin-top: 50px;
+    margin-left:500px;
+    margin-right:500px;
+    margin-bottom: 50px;
+    background-color: rgb(27, 26, 26);
+    border-radius: 15px;
+}
+#zero{
+    color: white;
+    font-family: 'inter', sans-serif;
+}
+#one{
+    color: greenyellow;
+    font-family: 'inter', sans-serif;
+    font-weight: bold;
+}
+#two{
+    color: white;
+    font-weight: lighter;
+    font-family: 'inter', sans-serif;
+}
+p{
+    color: white;
+    font-family: 'inter', sans-serif;
+    border-radius:5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left:100px;
+    margin-right: 100px;
+    background-color: rgb(46, 44, 44);
+    font-weight: bold;
+}
